@@ -1,2 +1,3 @@
 # indexs_practics
-Homework for indexs
+## Homework for indexs
+### Answers for chapter 18
